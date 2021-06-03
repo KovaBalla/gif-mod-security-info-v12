@@ -1161,7 +1161,7 @@ toggleLevel [on/off] - toggleLeave [on/off] - autoreply1 [on/off] - autoreply2 [
 
  
 
-:-:emoji_6~5:|•Games Comands•
+:-emoji_6~5|•Games Comands•
 --------------
 slots - rps - 8ball
 
