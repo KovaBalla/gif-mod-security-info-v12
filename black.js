@@ -30,7 +30,7 @@ const imdb = require("imdb-api");
 const cooldown = new Set();
 const cdtime = 5;
 const prefix = "v!"
-client.login("ODM1MzkxNjgzMzEwNTE4Mjcy.YIOxIg.8HDwSg-1d-V0M7Fa7jRkHcBWcNc")
+client.login("ODM1MzkxNjgzMzEwNTE4Mjcy.YIOxIg.nUI2T3qmQutvWRtYb_XsjILpWwk")
 client.on("ready", () => {
   console.log("ALLAH AKBAR");
   console.log("♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔");
@@ -1124,14 +1124,14 @@ client.on("message", async message => {
 
 **The Prefix is a (v!)**
 
-:-:emoji_2~4:|•General Comands•
+<a:emoji_2:849353952506937385>|•General Comands•
 --------------
  botinfo - server - ping - invites - boosts - hightRole - nick - user - avatar - roles - emoji - sug - timer - youtube - google - weather - listemojis - my perms - 
  covid - my perms - sbot - calc - chinfo - count - guild - date - year - se static <emojiserver> - movie <movie name>
 
 
 
-:-:emoji_9~5:|•Moderation Comands•
+<a:emoji_9:849973682658344970>|•Moderation Comands•
 --------------
 ban - kick - mute - unmute - say - embed - tempmute - color - bans - roleinf
 unban - unban all - warn - warnings - lock - unlock - close - open - pin - unpin - rules - settopic - move - help move - delete - mutevoice - unmute voice - 
@@ -1147,7 +1147,7 @@ toggleLevel [on/off] - toggleLeave [on/off] - autoreply1 [on/off] - autoreply2 [
 
 
 
- |•Security Comands•
+<a:emoji_4:849362655906496563>|•Security Comands•
 --------------
  anti ban [Number]
  anti kick [Number]
@@ -1161,13 +1161,13 @@ toggleLevel [on/off] - toggleLeave [on/off] - autoreply1 [on/off] - autoreply2 [
 
  
 
-:-emoji_6~5|•Games Comands•
+<a:emoji_6:849673578336485387> |•Games Comands•
 --------------
 slots - rps - 8ball
 
 
 
-:-:emoji_7~3:|•Fun Comands•
+<a:emoji_6:849364940095356970>|•Fun Comands•
 --------------
  meme - slap - cuddle - kiss - boom - man - girl
  sad - love - hack - dog
