@@ -1117,6 +1117,7 @@ client.on("message", async message => {
     }, cdtime * 1000);
     let help = new Discord.MessageEmbed()
       .setColor("RED")
+      .setImage("https://media.discordapp.net/attachments/846275902311759892/850060460115755018/image0.gif")
       .setAuthor(message.author.username, message.author.displayAvatarURL())
       .setThumbnail(message.guild.iconURL()).setDescription(`
       
