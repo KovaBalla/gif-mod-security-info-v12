@@ -1139,7 +1139,7 @@ region
 
 
 
-:-:emoji_8~3:|•Config Comands•
+<a:emoji_8:849674441838297129> |•Config Comands•
 --------------
 setLevel - setWelcomer - setReponse1 - setReponse2 - setReponse3 - setLog - setAutoRole - setSug - 
 toggleLevel [on/off] - toggleLeave [on/off] - autoreply1 [on/off] - autoreply2 [on/off] - autoreply3 - [on/off] - togglelog [on/off] - toggleArole [on/off]
