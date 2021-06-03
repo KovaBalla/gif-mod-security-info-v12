@@ -1124,14 +1124,14 @@ client.on("message", async message => {
 
 **The Prefix is a (v!)**
 
- •General Comands•
+:-:emoji_2~4:|•General Comands•
 --------------
  botinfo - server - ping - invites - boosts - hightRole - nick - user - avatar - roles - emoji - sug - timer - youtube - google - weather - listemojis - my perms - 
  covid - my perms - sbot - calc - chinfo - count - guild - date - year - se static <emojiserver> - movie <movie name>
 
 
 
- •Moderation Comands•
+:-:emoji_9~5:|•Moderation Comands•
 --------------
 ban - kick - mute - unmute - say - embed - tempmute - color - bans - roleinf
 unban - unban all - warn - warnings - lock - unlock - close - open - pin - unpin - rules - settopic - move - help move - delete - mutevoice - unmute voice - 
@@ -1139,7 +1139,7 @@ region
 
 
 
- •Config Comands•
+:-:emoji_8~3:|•Config Comands•
 --------------
 setLevel - setWelcomer - setReponse1 - setReponse2 - setReponse3 - setLog - setAutoRole - setSug - 
 toggleLevel [on/off] - toggleLeave [on/off] - autoreply1 [on/off] - autoreply2 [on/off] - autoreply3 - [on/off] - togglelog [on/off] - toggleArole [on/off]
@@ -1147,7 +1147,7 @@ toggleLevel [on/off] - toggleLeave [on/off] - autoreply1 [on/off] - autoreply2 [
 
 
 
- •Security Comands•
+ |•Security Comands•
 --------------
  anti ban [Number]
  anti kick [Number]
@@ -1161,13 +1161,13 @@ toggleLevel [on/off] - toggleLeave [on/off] - autoreply1 [on/off] - autoreply2 [
 
  
 
- •Games Comands•
+:-:emoji_6~5:|•Games Comands•
 --------------
 slots - rps - 8ball
 
 
 
- •Fun Comands•
+:-:emoji_7~3:|•Fun Comands•
 --------------
  meme - slap - cuddle - kiss - boom - man - girl
  sad - love - hack - dog
