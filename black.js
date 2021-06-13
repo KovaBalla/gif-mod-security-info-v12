@@ -612,7 +612,7 @@ client.on("message", async message => {
       .addField("Channel", message.channel.name)
       .addField("By", message.author.tag)
       .setColor("RANDOM")
-      .setFooter("BY BLACK JACK");
+      .setFooter("BY KiLLUA");
     message.channel.send(embed);
   }
 });
@@ -3023,17 +3023,17 @@ client.on("message", message => {
 client.on("message", async message => {
   if (
     message.content.includes(
-      "ker",
-      "qn",
-      "qwz",
-      "Kerm",
-      "Ker",
-      "kerm",
-      "maza",
-      "daykt bgem",
-      "xwshkt bgem",
-      "nank hiz",
-      "bgem"
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     )
   ) {
     if (!message.channel.guild) return;
