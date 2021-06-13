@@ -1121,18 +1121,18 @@ client.on("message", async message => {
       .setAuthor(message.author.username, message.author.displayAvatarURL())
       .setThumbnail(message.guild.iconURL()).setDescription(`
       
-[Click To Invite](https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=2080374975)  
+[Click To Invite](https://discord.com/api/oauth2/authorize?client_id=853578661646827540&permissions=8&scope=bot)  
 
 **The Prefix is a (v!)**
 
-<a:emoji_2:849353952506937385>|•General Comands•
+|•General Comands•
 --------------
  botinfo - server - ping - invites - boosts - hightRole - nick - user - avatar - roles - emoji - sug - timer - youtube - google - weather - listemojis - my perms - 
  covid - my perms - sbot - calc - chinfo - count - guild - date - year - se static <emojiserver> - movie <movie name>
 
 
 
-<a:emoji_9:849973682658344970>|•Moderation Comands•
+|•Moderation Comands•
 --------------
 ban - kick - mute - unmute - say - embed - tempmute - color - bans - roleinf
 unban - unban all - warn - warnings - lock - unlock - close - open - pin - unpin - rules - settopic - move - help move - delete - mutevoice - unmute voice - 
@@ -1140,7 +1140,7 @@ region
 
 
 
-<a:emoji_8:849674441838297129> |•Config Comands•
+|•Config Comands•
 --------------
 setLevel - setWelcomer - setReponse1 - setReponse2 - setReponse3 - setLog - setAutoRole - setSug - 
 toggleLevel [on/off] - toggleLeave [on/off] - autoreply1 [on/off] - autoreply2 [on/off] - autoreply3 - [on/off] - togglelog [on/off] - toggleArole [on/off]
@@ -1148,7 +1148,7 @@ toggleLevel [on/off] - toggleLeave [on/off] - autoreply1 [on/off] - autoreply2 [
 
 
 
-<a:emoji_4:849362655906496563>|•Security Comands•
+|•Security Comands•
 --------------
  anti ban [Number]
  anti kick [Number]
@@ -1162,18 +1162,18 @@ toggleLevel [on/off] - toggleLeave [on/off] - autoreply1 [on/off] - autoreply2 [
 
  
 
-<a:emoji_6:849673578336485387> |•Games Comands•
+|•Games Comands•
 --------------
 slots - rps - 8ball
 
 
 
-<a:emoji_6:849364940095356970>|•Fun Comands•
+|•Fun Comands•
 --------------
  meme - slap - cuddle - kiss - boom - man - girl
  sad - love - hack - dog
 
-[Support Server](https://discord.gg/w8KPGP7hUp) 
+[Support Server](https://discord.gg/FEJG4K7RrW) 
 
 `);
     message.channel.send(help);
