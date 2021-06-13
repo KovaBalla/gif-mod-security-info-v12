@@ -1116,14 +1116,14 @@ client.on("message", async message => {
       cooldown.delete(message.author.id);
     }, cdtime * 1000);
     let help = new Discord.MessageEmbed()
-      .setColor("RED")
-      .setImage("https://media.discordapp.net/attachments/846275902311759892/850060460115755018/image0.gif")
+      .setColor("RANDOM")
+      .setImage("https://cdn.discordapp.com/attachments/853603478626500608/853616119198122014/standard.gif")
       .setAuthor(message.author.username, message.author.displayAvatarURL())
       .setThumbnail(message.guild.iconURL()).setDescription(`
       
 [Click To Invite](https://discord.com/api/oauth2/authorize?client_id=853578661646827540&permissions=8&scope=bot)  
 
-**The Prefix is a (v!)**
+**The Prefix is a (>)**
 
 |•General Comands•
 --------------
