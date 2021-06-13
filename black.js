@@ -29,7 +29,7 @@ const queue = new Map();
 const imdb = require("imdb-api");
 const cooldown = new Set();
 const cdtime = 5;
-const prefix = "v!"
+const prefix = ">"
 client.login("ODUzNTc4NjYxNjQ2ODI3NTQw.YMXbEw.0H7rwK4wEzYA0Gmkb4IUO8bDjkk")
 client.on("ready", () => {
   console.log("ALLAH AKBAR");
