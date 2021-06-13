@@ -223,11 +223,11 @@ client.on('message', message => {
     .setTitle('New Suggest')
     .addField('Suggest By', `${message.author}`)
     .addField('Suggest', `${args}`)
-    .addField('Guild Name', message.guild.name)
+    .addField('Server Name', message.guild.name)
     .setFooter(`Request By ${message.author.username}#${message.author.discriminator}`, message.author.avatarURL())
     sugest.send(blacksug).then(bj => {
-  bj.react("❌") 
-  bj.react("✅")
+  bj.react("<a:emoji_21:853593087502712863>") 
+  bj.react("<a:emoji_22:853593076597915649>")
     })}})
 client.on('message', message => {
             if(message.content.startsWith(prefix + "toggleSug on")) {
