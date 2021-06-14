@@ -3023,17 +3023,17 @@ client.on("message", message => {
 client.on("message", async message => {
   if (
     message.content.includes(
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "✇",
+      "𓅨",
+      "©",
+      "ⓐ",
+      "®",
+      "¦",
+      "⁂",
+      "눈",
+      "ʚĭɞ",
+      "∷",
+      "∪"
     )
   ) {
     if (!message.channel.guild) return;
